@@ -1,0 +1,2 @@
+# Dictionary-enrty
+ninja word
